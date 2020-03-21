@@ -1,12 +1,13 @@
 # HTML &AMP; CSS 4 ROOKIES
 
 ### Intro
-Hey everyone, I know times are hard and a lot of people are going a bit stir crazy from all the social distancing. I wan
+Hi everyone, I know times are hard and a lot of people are going a bit stir crazy from all the social distancing. For anyone interested in starting in web development I wanted to help introduce you to some basic concepts. 
 
 
 ### Whats **Needed** to get started
-
-- Code Editor
+- Without a Code Editor
+  - [CodePen](codepen.io)
+- With a Code Editor
   - [VScode](https://code.visualstudio.com/)
 - Live Server Plugin (This is a plugin for VScode)
   - [LiveServer](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) 
@@ -18,8 +19,9 @@ Hey everyone, I know times are hard and a lot of people are going a bit stir cra
 
 
 ### Sections
+ - Introduction
  - Basics
+ - List
  - Navigation
- - 
-
-
+ - Card
+ - Layout
