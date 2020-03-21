@@ -6,7 +6,7 @@ Hi everyone, I know times are hard and a lot of people are going a bit stir craz
 
 ### Whats **Needed** to get started
 - Without a Code Editor
-  - [CodePen](codepen.io)
+  - [CodePen](http://codepen.io)
 - With a Code Editor
   - [VScode](https://code.visualstudio.com/)
 - Live Server Plugin (This is a plugin for VScode)
