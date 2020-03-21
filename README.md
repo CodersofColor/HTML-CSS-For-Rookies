@@ -25,3 +25,5 @@ Hi everyone, I know times are hard and a lot of people are going a bit stir craz
  - Navigation
  - Card
  - Layout
+
+![alt text](./utils/img/cover.jpg "Coders Of Color")
