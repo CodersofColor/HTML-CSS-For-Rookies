@@ -1,19 +1,31 @@
+/* HEADER STYLES */
+.header-main{
+  margin:0;
+  padding:0;
+  background:white;
+}
+
 .nav-main{
-  background:#293949;
+  height:60px;
+  padding:0 30px;
+  max-height:60px;
 }
-
-
-/* Child Items */
-#title{
-  color:white
+.nav-main .logo{
+  float:left;
+  height:60px;
+  line-height: 60px;
+  margin:0;
+  text-transform: uppercase;
 }
-.nav-main ul{
-
+.nav-main ul {
+  float:right;
+  list-style:none;
 }
-.nav-main li {
-  background:#23313F;
-  color:white;
+.nav-main ul li{
+  display:inline-block;
 }
-.nav-main li a {
-
+.nav-main ul li a {
+  display:block;
+  padding:0 10px;
+  text-decoration: none;
 }
